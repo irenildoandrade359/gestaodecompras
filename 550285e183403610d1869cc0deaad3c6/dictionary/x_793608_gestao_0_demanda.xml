@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="a58895ed83043210b8f4c0b6feaad383" extends="task" label="Demanda" max_length="40" name="x_793608_gestao_0_demanda" type="collection">
+        <element label="Number" max_length="40" name="numbe0" type="string"/>
+        <element label="Gestor Solicitante" max_length="32" name="gestor_solicitante" reference="sys_user" type="reference"/>
+        <element label="Descrição" max_length="500" name="descricao" type="string"/>
+        <element attributes="Cancelado=Cancelado" choice="1" label="Status" max_length="40" name="status" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Concluído" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Cancelado" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Em andamento" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Novo" sequence="0" value="1"/>
+            </choice>
+        </element>
+    </element>
+</database>

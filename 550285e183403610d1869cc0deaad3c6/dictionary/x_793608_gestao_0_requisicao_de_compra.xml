@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="a8a7d1ad83043210b8f4c0b6feaad3a9" extends="task" label="Requisição de Compra" max_length="40" name="x_793608_gestao_0_requisicao_de_compra" type="collection">
+        <element label="Fornecedor não cadastrado" max_length="40" name="fornecedor_nao_cadastrado" type="string"/>
+        <element choice="1" label="Origem Financeira" max_length="40" name="origem_financeira" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="KTLO" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Grown" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Outras" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element label="Capex/Opex" max_length="32" name="capex_opex" reference="x_793608_gestao_0_tipo_de_custo" type="reference"/>
+        <element label="Departamento" max_length="32" name="departamento" reference="cmn_department" type="reference"/>
+        <element label="Benefício da Compra" max_length="40" name="beneficio_da_compra" type="string"/>
+        <element label="Escopo de Contratação" max_length="40" name="escopo_de_contratacao" type="string"/>
+        <element label="Demanda" max_length="32" name="demanda" reference="x_793608_gestao_0_demanda" type="reference"/>
+        <element label="Pedido" max_length="40" name="pedido" type="string"/>
+        <element label="Centro de Custo" max_length="32" name="centro_de_custo" reference="cmn_cost_center" type="reference"/>
+        <element label="NFe" max_length="40" name="nfe" type="string"/>
+    </element>
+</database>
