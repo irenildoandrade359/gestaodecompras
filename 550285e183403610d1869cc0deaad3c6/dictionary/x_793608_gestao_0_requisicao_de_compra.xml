@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="a8a7d1ad83043210b8f4c0b6feaad3a9" extends="task" label="Requisição de Compra" max_length="40" name="x_793608_gestao_0_requisicao_de_compra" type="collection">
+    <element audit="true" db_object_id="a8a7d1ad83043210b8f4c0b6feaad3a9" extends="task" label="Requisição de Compra" max_length="40" name="x_793608_gestao_0_requisicao_de_compra" text_index="true" type="collection">
         <element label="Fornecedor não cadastrado" max_length="40" name="fornecedor_nao_cadastrado" type="string"/>
         <element choice="1" label="Origem Financeira" max_length="40" name="origem_financeira" type="choice">
             <choice>

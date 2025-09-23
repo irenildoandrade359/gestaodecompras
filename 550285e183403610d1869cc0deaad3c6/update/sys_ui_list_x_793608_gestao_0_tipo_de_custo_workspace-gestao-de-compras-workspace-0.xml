@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_793608_gestao_0_tipo_de_custo" version="2" view="workspace-gestao-de-compras-workspace-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_793608_gestao_0_tipo_de_custo" element="NULL" name="x_793608_gestao_0_tipo_de_custo" parent="NULL" relationship="NULL" sys_domain="global" view="2e24dc6fe08c721019de1c7696868002">523414af838c7210b8f4c0b6feaad3b1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 15:28:13</sys_created_on>
+            <sys_id>1e3414af838c7210b8f4c0b6feaad3b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 15:28:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>descricao</element>
+            <list_id display_value="x_793608_gestao_0_tipo_de_custo" element="NULL" name="x_793608_gestao_0_tipo_de_custo" parent="NULL" relationship="NULL" sys_domain="global" view="2e24dc6fe08c721019de1c7696868002">523414af838c7210b8f4c0b6feaad3b1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 15:28:13</sys_created_on>
+            <sys_id>d63414af838c7210b8f4c0b6feaad3be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 15:28:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>nome</element>
+            <list_id display_value="x_793608_gestao_0_tipo_de_custo" element="NULL" name="x_793608_gestao_0_tipo_de_custo" parent="NULL" relationship="NULL" sys_domain="global" view="2e24dc6fe08c721019de1c7696868002">523414af838c7210b8f4c0b6feaad3b1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 15:28:13</sys_created_on>
+            <sys_id>da3414af838c7210b8f4c0b6feaad3be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 15:28:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>tipo</element>
+            <list_id display_value="x_793608_gestao_0_tipo_de_custo" element="NULL" name="x_793608_gestao_0_tipo_de_custo" parent="NULL" relationship="NULL" sys_domain="global" view="2e24dc6fe08c721019de1c7696868002">523414af838c7210b8f4c0b6feaad3b1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 15:28:13</sys_created_on>
+            <sys_id>de3414af838c7210b8f4c0b6feaad3be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 15:28:13</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_793608_gestao_0_tipo_de_custo</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-23 15:28:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>523414af838c7210b8f4c0b6feaad3b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_793608_gestao_0_tipo_de_custo</sys_name>
+            <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+            <sys_update_name>sys_ui_list_x_793608_gestao_0_tipo_de_custo_workspace-gestao-de-compras-workspace-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-23 15:28:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gestao de Compras Workspace 0" name="workspace-gestao-de-compras-workspace-0">2e24dc6fe08c721019de1c7696868002</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

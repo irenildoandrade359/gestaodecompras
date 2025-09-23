@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_793608_gestao_0_requisicao_de_compra</collection>
+        <condition table="x_793608_gestao_0_requisicao_de_compra">state=4<item display_value="Concluído" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="4"/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_digest>false</default_digest>
+        <default_interval/>
+        <description>Avisa o gestão solicitante da demanda que a requisição de compra foi concluída</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digest_type>single</digest_type>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Ol&aacute; Gestor(a)!</p>
+<p>A requisi&ccedil;&atilde;o de compra gerada para a sua demanda foi concluida. Abaixo seguem as informa&ccedil;&otilde;es preenchidas pelo analista de compras?</p>
+<p><strong>T&iacute;tulo</strong>: ${short_description}</p>
+<p><strong>Descri&ccedil;&atilde;o</strong>: ${description}</p>
+<p><strong>Pedido</strong>: ${pedido}</p>
+<p><strong>NFe</strong>: ${nfe}</p>
+<p>&nbsp;</p>
+<p>Demanda Em breve voc&ecirc; receber&aacute; o que foi solicitado</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Requisição de compra concluída</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>demanda.opened_by</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>A requisição de compra para a sua demanda ${demanda.number} foi concluida</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 13:28:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e867f3d3830c7210b8f4c0b6feaad377</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Requisição de compra concluída</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sysevent_email_action_e867f3d3830c7210b8f4c0b6feaad377</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 14:19:12</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

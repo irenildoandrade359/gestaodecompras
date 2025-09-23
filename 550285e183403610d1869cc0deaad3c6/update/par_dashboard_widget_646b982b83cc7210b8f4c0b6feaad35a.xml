@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">623454af838c7210b8f4c0b6feaad352</canvas>
+        <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
+        <component_props>{"html":"&lt;p&gt;&lt;span style=\"font-size: 14pt;\"&gt;&lt;strong&gt;CAPEX (Capital Expenditure): &lt;/strong&gt;S&amp;atilde;o os gastos com bens de capital, ou seja, investimentos em ativos fixos, como compra de m&amp;aacute;quinas, equipamentos ou constru&amp;ccedil;&amp;atilde;o de instala&amp;ccedil;&amp;otilde;es. S&amp;atilde;o despesas que aumentam o patrim&amp;ocirc;nio da empresa.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=\"font-size: 14pt;\"&gt;&lt;strong&gt;OPEX (Operational Expenditure):&lt;/strong&gt; S&amp;atilde;o os gastos operacionais do dia a dia da empresa, como sal&amp;aacute;rios, aluguel, energia el&amp;eacute;trica e manuten&amp;ccedil;&amp;atilde;o. S&amp;atilde;o despesas necess&amp;aacute;rias para manter as opera&amp;ccedil;&amp;otilde;es funcionando.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;"}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 15:59:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>646b982b83cc7210b8f4c0b6feaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>par_dashboard_widget_646b982b83cc7210b8f4c0b6feaad35a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 15:59:30</sys_updated_on>
+        <visualization/>
+        <w>27</w>
+        <widget_props/>
+        <x>21</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
