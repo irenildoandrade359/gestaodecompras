@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_793608_gestao_0.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 13:40:29</sys_created_on>
+        <sys_id>1d0285e183403610d1869cc0deaad3cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793608_gestao_0.admin</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_update_name>sys_user_role_1d0285e183403610d1869cc0deaad3cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 13:40:29</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</application>
+        <file_path/>
+        <instance_id>789f5652db563990f697684e139619d0</instance_id>
+        <instance_name>dev206076</instance_name>
+        <name>sys_user_role_1d0285e183403610d1869cc0deaad3cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default admin role</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_793608_gestao_0.admin</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-17 13:40:29</sys_created_on><sys_id>1d0285e183403610d1869cc0deaad3cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_793608_gestao_0.admin</sys_name><sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package><sys_policy/><sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope><sys_update_name>sys_user_role_1d0285e183403610d1869cc0deaad3cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-17 13:40:29</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>402493405</payload_hash>
+        <record_name>x_793608_gestao_0.admin</record_name>
+        <reverted_from/>
+        <source>3ef3892583c03210b8f4c0b6feaad363</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 13:49:03</sys_created_on>
+        <sys_id>03f3c92583c03210b8f4c0b6feaad31f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19957ef98770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 13:49:03</sys_updated_on>
+        <type>Role</type>
+        <update_guid>610285e16b403610ac41bf6be7f7add0</update_guid>
+        <update_guid_history>610285e16b403610ac41bf6be7f7add0:402493405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_793608_gestao_0.admin">c0461346830c7210b8f4c0b6feaad30c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-19 13:45:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>089b40f6e62d4d80873033aa22d1f2c1</sys_id>
+        <sys_metadata>1d0285e183403610d1869cc0deaad3cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793608_gestao_0.admin</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_scope_delete display_value="">a5cf940ab48a4dcc83b1849b9a3d8864</sys_scope_delete>
+        <sys_update_name>sys_user_role_1d0285e183403610d1869cc0deaad3cc</sys_update_name>
+        <sys_update_version display_value="sys_user_role_1d0285e183403610d1869cc0deaad3cc">03f3c92583c03210b8f4c0b6feaad31f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-19 13:45:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

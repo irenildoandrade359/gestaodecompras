@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 15:28:48</sys_created_on>
+        <sys_id>84da19a183443210b8f4c0b6feaad3af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793608_gestao_0_tipo_de_custo.x_793608_gestao_0.admin</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_security_acl display_value="x_793608_gestao_0_tipo_de_custo">44da19a183443210b8f4c0b6feaad3ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_84da19a183443210b8f4c0b6feaad3af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 15:28:48</sys_updated_on>
+        <sys_user_role display_value="x_793608_gestao_0.admin" name="x_793608_gestao_0.admin">1d0285e183403610d1869cc0deaad3cc</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</application>
+        <file_path/>
+        <instance_id>789f5652db563990f697684e139619d0</instance_id>
+        <instance_name>dev206076</instance_name>
+        <name>sys_security_acl_role_84da19a183443210b8f4c0b6feaad3af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-17 15:28:48</sys_created_on><sys_id>84da19a183443210b8f4c0b6feaad3af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_793608_gestao_0_tipo_de_custo.x_793608_gestao_0.admin</sys_name><sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package><sys_policy/><sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope><sys_security_acl display_value="x_793608_gestao_0_tipo_de_custo">44da19a183443210b8f4c0b6feaad3ac</sys_security_acl><sys_update_name>sys_security_acl_role_84da19a183443210b8f4c0b6feaad3af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-17 15:28:48</sys_updated_on><sys_user_role display_value="x_793608_gestao_0.admin" name="x_793608_gestao_0.admin">1d0285e183403610d1869cc0deaad3cc</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-789172821</payload_hash>
+        <record_name>x_793608_gestao_0_tipo_de_custo.x_793608_gestao_0.admin</record_name>
+        <reverted_from/>
+        <source>bc0ec96183043210b8f4c0b6feaad374</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 15:28:48</sys_created_on>
+        <sys_id>44da19a183443210b8f4c0b6feaad3b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199584ae8390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 15:28:48</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c8da19a1a9443210ffb9021fab4969b1</update_guid>
+        <update_guid_history>c8da19a1a9443210ffb9021fab4969b1:-789172821</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_793608_gestao_0_tipo_de_custo.x_793608_gestao_0.admin">d046d746830c7210b8f4c0b6feaad333</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-19 13:45:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>614ddfad628f41a8afcf5d3d18fd1040</sys_id>
+        <sys_metadata>84da19a183443210b8f4c0b6feaad3af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_793608_gestao_0_tipo_de_custo.x_793608_gestao_0.admin</sys_name>
+        <sys_package display_value="Gestao de Compras" source="x_793608_gestao_0">550285e183403610d1869cc0deaad3c6</sys_package>
+        <sys_parent display_value="x_793608_gestao_0_tipo_de_custo">44da19a183443210b8f4c0b6feaad3ac</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestao de Compras">550285e183403610d1869cc0deaad3c6</sys_scope>
+        <sys_scope_delete display_value="">a5cf940ab48a4dcc83b1849b9a3d8864</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_84da19a183443210b8f4c0b6feaad3af</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_84da19a183443210b8f4c0b6feaad3af">44da19a183443210b8f4c0b6feaad3b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-19 13:45:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

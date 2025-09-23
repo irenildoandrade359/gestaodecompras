@@ -3,16 +3,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-18 12:57:58</sys_created_on>
+            <sys_created_on>2025-09-22 17:27:21</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>98e10e7183403210b8f4c0b6feaad333</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>69e5ebcb83843210b8f4c0b6feaad353</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_793608_gestao_0_requisicao_de_compra" name="x_793608_gestao_0_requisicao_de_compra" sys_domain="global" view="Default view">8ce10e7183403210b8f4c0b6feaad32f</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_793608_gestao_0_requisicao_de_compra" sys_domain="global" view="Default view">6da7d1ad83043210b8f4c0b6feaad367</sys_ui_section>
+            <sys_ui_section caption="Requisição de Compra" display_value="Requisição de Compra" name="x_793608_gestao_0_requisicao_de_compra" sys_domain="global" view="Default view">9de5ebcb83843210b8f4c0b6feaad32f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-18 12:57:58</sys_updated_on>
+            <sys_updated_on>2025-09-22 17:27:21</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
